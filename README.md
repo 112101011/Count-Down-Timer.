@@ -15,8 +15,13 @@ Here the working of count down timer can be followed by using the following stat
 Here the message ‘ERROR’ is given sometimes by the timer when a operation of no-sense at a state is performed. For example: when alarm is stopped there is no sense of pausing the alarm. So here ‘ERROR’ message is displayed but the state remains the same. This is one of the examples of such redundant cases and there are many, that are clearly mentioned in the state diagram. 
 
 ## Description of python program:
-Here in the python code we can observe that a class object is created to perform this count timer execution. We can see that the ‘ERROR’ cases are handled in every button method in python. There are four buttons they are: 1) reset button 2) stop button 3) pause button 4) resume button. And the message is printed every instant whether there is some error  in the sequence of button that can  be inferred from the state diagram.
-
+Here in the python code we can observe that a class object is created to perform this count timer execution. We can see that the ‘ERROR’ cases are handled in every button method in python. <br/>
+There are four buttons they are: 
+1) reset button
+2) stop button
+3) pause button
+4) resume button.<br/>
+And the message is printed every instant whether there is some error  in the sequence of button that can  be inferred from the state diagram. <br/>
 The important part of the code is decreasing the time. This code is written in the class method countdown_timer. After every second the seconds left is decremented by one and when seconds left becomes zero the countdown timer stops decrementing.
 
 
