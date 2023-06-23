@@ -1,6 +1,8 @@
 # Count-Down-Timer.
 This repository is regarding designing count down timer using python. <br/>
 
+[short presentation on this project](https://www.youtube.com/watch?v=AsolgUy9wUI)
+
 ## Problem statement:
 Design a count down timer that has following features:
 1) Reset
