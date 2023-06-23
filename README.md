@@ -29,4 +29,4 @@ The important part of the code is decreasing the time. This code is written in t
 ![pic](https://github.com/112101011/Count-Down-Timer./assets/111628378/9f1be835-1a2f-4541-9025-ce1f6fddce0c)
 
 ## Further scope:
-Sound can be added this count down timer. We can add it two ways. One would be that the sound is on while the count down timer is decrementing and it sound stops as soon as time left becomes zero. Other would be sound is on as soon as timer is zero. 
+Sound can be added to this count down timer. We can add it two ways. One would be that the sound is 'ON' while the count down timer is decrementing and it sound stops as soon as time left becomes zero. Other would be sound is 'ON' as soon as timer is zero. 
